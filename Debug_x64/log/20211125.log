@@ -1,0 +1,277 @@
+2021-11-25 09:29:03[12980]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 09:32:06[10388]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 09:34:57[12496]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 09:35:02[12496]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 09:35:02[12496]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 09:35:18[15968]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 09:35:27[15968]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 09:35:28[15968]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 09:45:04[592]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 09:47:01[592]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 09:47:02[592]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 09:48:03[12112]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-25 09:48:04[12112]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 09:59:43[19948]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 09:59:50[19948]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 09:59:51[19948]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 10:01:42[15884]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 10:01:59[15884]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 10:01:59[15884]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 10:31:48[16684]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 10:31:56[16684]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 10:31:57[16684]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 10:32:34[12020]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 10:32:37[12020]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 10:32:38[12020]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 10:33:13[15996]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 10:34:18[15996]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 10:34:18[15996]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 10:36:32[16728]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 10:37:05[16728]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 10:37:06[16728]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 10:43:51[19076]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 10:43:54[19076]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 10:43:55[19076]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 10:44:21[18592]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 10:44:28[18592]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 10:44:28[18592]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 10:44:50[16456]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 10:44:57[16456]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 10:44:58[16456]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 10:45:40[15108]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 10:45:45[15108]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 10:45:46[15108]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 11:14:05[19056]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 11:14:14[19056]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 11:14:15[19056]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 11:16:46[16048]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-25 11:16:46[16048]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 11:28:54[2380]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 11:29:25[2380]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 11:29:25[2380]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 11:32:12[17708]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 11:32:22[17708]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 11:32:23[17708]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 11:33:05[3568]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 11:33:29[3568]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 11:33:30[3568]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 11:37:11[19744]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 11:37:22[19744]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 11:37:23[19744]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 11:38:46[10892]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 11:39:03[10892]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 11:39:04[10892]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 11:39:10[12892]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 11:39:30[12892]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 11:39:30[12892]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 13:18:49[18128]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 13:19:09[18128]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 13:19:09[18128]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 13:32:59[24328]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 13:33:17[24328]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 13:33:17[24328]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 13:33:39[14528]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 13:33:50[14528]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 13:33:51[14528]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 13:38:51[21276]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 13:39:14[21276]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 13:39:14[21276]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 13:42:42[11632]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 13:43:26[11632]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 13:43:27[11632]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 13:43:53[14924]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 13:45:30[14924]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 13:45:31[14924]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 13:46:45[3652]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 13:47:56[3652]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 13:47:57[3652]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 13:48:12[13876]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 13:48:41[13876]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 13:48:42[13876]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 13:49:15[14268]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 13:49:48[14268]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 13:49:48[14268]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 13:52:40[19944]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 13:53:01[19944]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 13:53:02[19944]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 13:58:02[14736]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 13:58:30[14736]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 13:58:30[14736]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 13:59:03[8780]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 13:59:59[8780]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 14:00:00[8780]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 14:02:47[18320]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 14:03:38[14988]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 14:03:39[14988]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-25 14:05:53[944]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 14:06:32[17240]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 14:06:33[17240]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-25 14:08:33[21588]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 14:08:54[21588]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 14:08:55[21588]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 14:12:35[26408]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 14:12:54[26408]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 14:12:55[26408]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 14:13:25[2316]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 14:13:40[2316]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 14:13:40[2316]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 14:13:58[23252]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-25 14:14:13[23252]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 14:14:14[23252]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 14:34:34[10420]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-25 14:34:46[10420]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 14:36:02[3788]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 14:37:00[9244]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-25 14:37:10[9244]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 14:37:40[11448]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 14:38:37[6956]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-25 14:38:41[6956]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 14:40:14[10732]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 14:40:49[12656]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-25 14:41:43[12656]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 14:43:47[3336]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 14:43:47[3336]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 14:43:47[3336]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 14:48:30[12484]  [INFO] : CDHCameraGrab::StopGrab->enter
+2021-11-25 14:49:18[12484]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 14:49:18[12484]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 14:49:18[12484]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 14:50:21[648]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 14:50:21[648]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 14:50:22[648]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 14:50:58[1224]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 14:50:58[1224]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 14:50:59[1224]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 14:53:15[4464]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 14:53:15[4464]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 14:53:16[4464]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 14:59:07[11348]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 14:59:07[11348]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 14:59:07[11348]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 15:00:06[11016]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 15:00:06[11016]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 15:00:07[11016]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 15:01:15[8792]  [INFO] : CDHCameraGrab::StopGrab->enter
+2021-11-25 15:14:49[8792]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 15:14:49[8792]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 15:14:50[8792]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 16:50:23[14768]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 16:50:23[14768]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 16:50:25[14768]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 16:51:24[17672]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 16:51:24[17672]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 16:51:25[17672]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 16:51:40[18768]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 16:51:40[18768]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 16:51:41[18768]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 16:53:00[19940]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 16:53:00[19940]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 16:53:01[19940]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 16:53:51[14540]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 16:53:51[14540]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 16:53:53[14540]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 16:54:20[13604]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 16:54:20[13604]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 16:54:21[13604]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 16:55:49[9444]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 16:55:49[9444]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 16:55:50[9444]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 16:57:21[13816]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 16:57:21[13816]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 16:57:23[13816]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 16:57:47[2540]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 16:57:47[2540]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 16:57:48[2540]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 17:00:14[19400]  [INFO] : CDHCameraGrab::StopGrab->enter
+2021-11-25 17:00:33[19400]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 17:00:33[19400]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 17:00:34[19400]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 17:28:10[19968]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 17:28:10[19968]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 17:28:11[19968]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 17:36:58[13764]  [INFO] : CDHCameraGrab::StopGrab->enter
+2021-11-25 17:40:50[18972]  [INFO] : CDHCameraGrab::StopGrab->enter
+2021-11-25 17:46:06[19664]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-25 17:49:29[16904]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-25 17:50:46[16904]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 17:52:57[15468]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 17:52:57[15468]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 17:52:58[15468]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 19:10:28[18792]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 19:10:28[18792]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 19:10:29[18792]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 19:33:40[7332]  [INFO] : CDHCameraGrab::StopGrab->enter
+2021-11-25 19:33:56[7332]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 19:33:56[7332]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 19:33:57[7332]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 19:37:38[10852]  [INFO] : CDHCameraGrab::StopGrab->enter
+2021-11-25 19:37:43[10852]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 19:37:43[10852]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 19:37:45[10852]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 19:43:22[3152]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 19:43:22[3152]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 19:43:23[3152]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 19:44:58[1596]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 19:44:58[1596]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 19:44:58[1596]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 19:47:01[19520]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 19:47:01[19520]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 19:47:02[19520]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 19:53:58[21152]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 19:53:58[21152]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 19:53:59[21152]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 19:54:46[23488]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 19:54:46[23488]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 19:54:46[23488]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 19:57:36[19924]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 19:57:36[19924]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 19:57:37[19924]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 20:09:19[23984]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 20:09:19[23984]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 20:09:19[23984]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 20:10:43[11616]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 20:10:43[11616]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 20:10:44[11616]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 20:12:29[22768]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-25 20:13:05[10124]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-25 20:13:15[10124]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 20:14:58[24040]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 20:14:58[24040]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 20:15:00[24040]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 20:15:31[6332]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 20:15:31[6332]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 20:15:32[6332]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 20:16:03[11680]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 20:16:03[11680]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 20:16:04[11680]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 20:16:42[12916]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 20:16:42[12916]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 20:16:43[12916]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 20:22:04[22220]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-25 20:25:55[1892]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 20:25:55[1892]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 20:25:56[1892]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 20:28:58[21320]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 20:28:58[21320]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 20:28:59[21320]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 20:33:47[3880]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 20:33:47[3880]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 20:33:48[3880]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 20:34:29[20264]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 20:34:29[20264]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 20:34:31[20264]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 20:35:34[19080]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 20:35:34[19080]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 20:35:35[19080]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 20:39:51[10900]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 20:39:51[10900]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 20:39:51[10900]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 20:42:24[14024]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 20:42:24[14024]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 20:42:25[14024]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 20:43:05[5668]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 20:43:05[5668]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 20:43:07[5668]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-25 20:43:25[17672]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-25 20:43:25[17672]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-25 20:43:26[17672]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave

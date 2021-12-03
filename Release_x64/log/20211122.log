@@ -1,0 +1,5 @@
+2021-11-22 17:33:44[6384]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-22 17:33:52[6384]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-22 17:33:53[6384]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-22 17:34:52[14408]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 17:35:11[14408]  [INFO] : CDHCameraGrab::CloseCamera->leave

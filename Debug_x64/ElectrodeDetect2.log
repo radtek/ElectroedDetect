@@ -1,0 +1,4 @@
+﻿D:\vs2019安装路径\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(.\..\Debug_x64\)包含从另一个项目(ControlDLL.vcxproj, DalsaCamLib.vcxproj, HaiKangCamLib.vcxproj, ZCVisionTool.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  LINK : 没有找到 .\..\Debug_x64\ElectrodeDetect2.exe 或上一个增量链接没有生成它；正在执行完全链接
+    正在创建库 .\..\Debug_x64\ElectrodeDetect2.lib 和对象 .\..\Debug_x64\ElectrodeDetect2.exp
+  ElectrodeDetect2.vcxproj -> E:\工作\MFC\软件\赛历焊条检测\ElectrodeDetect\Debug_x64\ElectrodeDetect2.exe

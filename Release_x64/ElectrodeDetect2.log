@@ -1,0 +1,8 @@
+﻿D:\vs2019安装路径\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(476,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+D:\vs2019安装路径\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+D:\vs2019安装路径\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(.\..\Release_x64\)包含从另一个项目(ControlDLL.vcxproj, DalsaCamLib.vcxproj, HaiKangCamLib.vcxproj, ZCVisionTool.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+    正在创建库 .\..\Release_x64\ElectrodeDetect2.lib 和对象 .\..\Release_x64\ElectrodeDetect2.exp
+Analyhander.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl CImageControl::SetDetPass(bool)" (__imp_?SetDetPass@CImageControl@@QEAAX_N@Z)
+Analyhander.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl CImageControl::SetDistance(float,float)" (__imp_?SetDistance@CImageControl@@QEAAXMM@Z)
+ElectrodeDetect2Dlg.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl CImageControl::SetImgControlId(int)" (__imp_?SetImgControlId@CImageControl@@QEAAXH@Z)
+.\..\Release_x64\ElectrodeDetect2.exe : fatal error LNK1120: 3 个无法解析的外部命令

@@ -1,0 +1,12 @@
+2021-12-01 14:29:28[2792]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-01 14:29:28[2792]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-01 14:29:28[2792]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-01 14:30:32[2796]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-01 14:30:32[2796]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-01 14:30:33[2796]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-01 14:31:14[15700]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-01 14:31:14[15700]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-01 14:31:16[15700]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-01 14:31:45[10312]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-01 14:31:45[10312]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-01 14:31:46[10312]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave

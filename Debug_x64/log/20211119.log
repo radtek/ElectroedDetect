@@ -1,0 +1,54 @@
+2021-11-19 15:32:01[6428]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 15:39:43[19228]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 15:40:17[14128]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 15:42:27[16396]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 16:54:48[8920]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 16:55:21[2028]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 16:56:31[17080]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 17:03:26[10404]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 17:04:17[19952]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-19 17:04:18[19952]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-19 17:23:47[20796]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 17:23:51[20796]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 17:24:18[19872]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 17:27:59[18756]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 17:28:21[15388]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 17:36:46[13156]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 17:51:13[15508]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-19 17:51:14[15508]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-19 18:00:06[20084]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-19 18:00:06[20084]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-19 19:05:38[20240]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-19 19:05:39[20240]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-19 19:07:16[3500]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-19 19:07:17[3500]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-19 19:10:11[23324]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-19 19:10:12[23324]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-19 19:12:59[20080]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 19:13:13[17072]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 19:13:35[21532]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 19:22:04[2744]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 19:24:40[5888]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-19 19:24:40[5888]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-19 19:27:50[22472]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-19 19:27:51[22472]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-19 19:31:12[12796]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-19 19:31:13[12796]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-19 19:32:17[21016]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-19 19:32:19[21016]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-19 19:37:53[2124]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-19 19:37:54[2124]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-19 19:40:05[23524]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-19 19:40:06[23524]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-19 20:25:34[2952]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-19 20:25:34[2952]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-19 20:27:58[10508]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-19 20:27:58[10508]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-19 20:28:36[8680]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-19 20:28:37[8680]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-19 20:30:36[20812]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 20:38:43[3372]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-19 20:38:43[3372]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-19 20:40:39[13780]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-19 20:44:50[17572]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-19 20:44:51[17572]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave

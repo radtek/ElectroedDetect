@@ -1,0 +1,5 @@
+E:\工作\MFC\软件\焊条检测new\ElectrodeDetect\Release_x64\Control.dll
+E:\工作\MFC\软件\展示机\ElectrodeDetect\Release_x64\Control.dll
+D:\ElectrodeDetect\Release_x64\Control.dll
+F:\ElectrodeDetect\Release_x64\Control.dll
+E:\ElectrodeDetect\Release_x64\Control.dll

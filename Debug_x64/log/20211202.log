@@ -1,0 +1,206 @@
+2021-12-02 09:46:27[10416]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-12-02 09:47:13[10416]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 09:47:14[10416]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 09:50:14[10260]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-12-02 09:51:16[10260]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 09:51:17[10260]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 10:08:58[11672]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-12-02 10:29:54[12180]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-12-02 10:31:11[12180]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 10:31:12[12180]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 10:34:20[9296]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 10:34:20[9296]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 10:34:21[9296]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 10:44:14[5812]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 10:44:14[5812]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 10:44:16[5812]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 10:45:06[5424]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 10:45:06[5424]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 10:45:07[5424]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 10:45:46[16692]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 10:45:46[16692]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 10:45:46[16692]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 10:47:32[12104]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 10:47:32[12104]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 10:47:32[12104]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 10:48:40[5488]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 10:48:40[5488]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 10:48:57[5488]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 10:51:47[16572]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 10:52:04[16572]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 10:54:54[14116]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 10:55:16[14116]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 10:55:22[13624]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 10:58:56[13624]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 10:59:24[16284]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 11:05:34[16284]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 11:05:49[9204]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 11:07:09[9204]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 11:08:57[16496]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 11:10:18[16496]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 11:13:38[10256]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 11:15:43[10256]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 11:34:11[19024]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 11:37:57[19024]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 11:38:36[12592]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 11:44:06[12592]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 11:44:59[6256]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 11:46:15[6256]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 11:46:21[17156]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 11:47:22[17156]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 11:49:44[11092]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 11:49:49[11092]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 11:50:38[14732]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 11:50:43[14732]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 11:53:19[17344]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 11:53:22[17344]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 11:53:43[17376]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 11:53:59[17376]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 11:55:44[15080]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 13:17:13[15080]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 13:24:46[15724]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 13:26:41[15724]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 13:29:53[17084]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 13:33:45[17084]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 13:34:12[16616]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 13:35:29[16616]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 13:35:36[16608]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 13:41:17[16608]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 13:44:00[20536]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 13:44:02[20536]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 13:44:11[17136]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 13:45:24[17136]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 13:48:21[13412]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 13:49:26[13412]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 13:50:20[20324]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 13:52:00[20324]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 13:52:33[21452]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 13:58:35[21452]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 14:27:49[17064]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 14:27:53[17064]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 14:29:40[20612]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 14:30:05[20612]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 14:34:03[6292]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 14:34:03[6292]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 14:34:03[6292]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 14:34:24[17132]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 14:34:24[17132]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 14:34:25[17132]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 14:35:33[21412]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 14:35:33[21412]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 14:35:34[21412]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 14:36:21[21804]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 14:36:21[21804]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 14:36:21[21804]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 14:56:27[11576]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 14:56:27[11576]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 14:56:28[11576]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 14:56:47[18336]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 14:56:47[18336]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 14:56:47[18336]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 14:59:45[18812]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 14:59:45[18812]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 14:59:46[18812]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 15:04:19[18388]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 15:04:19[18388]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 15:04:19[18388]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 15:11:08[392]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 15:11:08[392]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 15:11:09[392]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 15:13:06[17964]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 15:13:06[17964]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 15:13:08[17964]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 15:14:08[22772]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 15:14:08[22772]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 15:14:09[22772]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 15:16:11[17444]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 15:16:11[17444]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 15:16:11[17444]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 15:18:03[9408]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 15:18:03[9408]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 15:18:04[9408]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 15:19:33[11716]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 15:19:33[11716]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 15:19:33[11716]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 15:48:20[21628]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 15:48:20[21628]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 15:48:21[21628]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 15:48:52[13520]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 15:49:29[13520]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 15:51:27[16996]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 15:51:28[16996]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 15:52:55[23672]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 15:52:55[23672]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 15:52:55[23672]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 15:57:12[24224]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 15:57:12[24224]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 15:57:12[24224]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 15:59:45[12948]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 15:59:51[12948]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 16:01:16[19628]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 16:01:16[19628]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 16:01:17[19628]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 16:02:01[20904]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 16:02:01[20904]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 16:02:01[20904]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 16:03:55[20404]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 16:03:55[20404]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 16:03:55[20404]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 16:05:53[15576]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 16:05:53[15576]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 16:05:53[15576]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 16:06:36[20696]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 16:06:36[20696]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 16:06:37[20696]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 16:07:19[20200]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 16:07:19[20200]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 16:07:21[20200]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 16:07:58[22828]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 16:07:58[22828]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 16:07:58[22828]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-12-02 16:13:33[25776]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 16:13:43[25776]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 16:20:16[2280]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 16:21:27[2280]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 16:22:36[26680]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 16:25:05[26680]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 16:25:19[14144]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 16:31:14[16800]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 16:32:09[3232]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 16:34:03[3232]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 16:40:33[25848]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 16:45:43[25848]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 16:58:29[24820]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 16:58:30[24820]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 16:59:41[23864]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 17:00:04[23864]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 17:01:03[27600]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 17:03:33[26256]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 17:03:57[26256]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 17:04:42[392]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 17:05:00[392]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 17:07:56[17476]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 17:09:02[17476]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 17:12:14[14544]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 17:12:47[14544]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 17:15:20[18264]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 17:22:15[18264]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 17:24:41[15556]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 17:24:53[15556]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 17:25:57[15684]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 17:26:17[15684]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 17:26:29[21220]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 17:27:40[21220]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 17:29:12[13216]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 17:29:17[13216]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 17:30:18[28128]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 17:30:25[28128]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 17:30:40[23976]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 17:31:18[23976]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 17:31:32[28508]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 17:31:55[28508]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 17:32:08[18940]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-12-02 17:32:34[18940]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 17:34:53[29988]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-12-02 17:34:53[29988]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-12-02 17:34:53[29988]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave

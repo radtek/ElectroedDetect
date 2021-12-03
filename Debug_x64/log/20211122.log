@@ -1,0 +1,118 @@
+2021-11-22 09:02:36[6228]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-22 09:02:37[6228]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-22 09:03:48[15496]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-22 09:12:22[2924]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-22 09:12:23[2924]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-22 13:48:31[7676]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-22 13:48:32[7676]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-22 14:15:13[18408]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 14:15:16[18408]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:00774227442
+2021-11-22 15:25:51[9196]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 15:26:17[19044]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 15:27:59[13252]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-22 15:27:59[13252]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-22 15:30:57[20216]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 15:31:34[11572]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-22 15:31:35[11572]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-22 15:35:19[11292]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-22 15:35:20[11292]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-22 15:36:03[2380]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-22 15:36:04[2380]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-22 15:37:38[20996]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-22 15:37:39[20996]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave
+2021-11-22 15:38:53[20104]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 15:39:21[20104]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-22 15:39:46[19800]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 15:49:03[4064]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 15:52:11[21784]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 15:52:15[21784]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-22 15:53:34[21412]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 15:54:10[21412]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-22 15:54:59[17396]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 15:55:25[17396]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-22 15:55:41[19700]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 15:55:51[19700]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-22 15:56:04[7612]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 15:57:45[20428]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:16:31[5148]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:24:16[13424]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:26:41[14280]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:26:44[14280]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-22 16:27:00[15000]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:28:05[13800]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:29:08[13800]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-22 16:29:13[15552]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:29:45[15552]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-22 16:29:49[1804]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:31:48[16888]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:37:45[16636]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:38:58[8648]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:41:47[3096]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:47:04[1872]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:47:36[1872]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-22 16:48:07[10492]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:48:08[10492]  [INFO] : ExposureTime  getMaxVal fail.
+
+2021-11-22 16:48:08[10492]  [INFO] : set exposuretime config fail.
+
+2021-11-22 16:48:17[17312]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:48:18[17312]  [INFO] : ExposureTime  getMaxVal fail.
+
+2021-11-22 16:48:18[17312]  [INFO] : set exposuretime config fail.
+
+2021-11-22 16:48:38[11612]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:48:42[11612]  [INFO] : ExposureTime  getMaxVal fail.
+
+2021-11-22 16:48:42[11612]  [INFO] : set exposuretime config fail.
+
+2021-11-22 16:49:20[12076]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:49:23[12076]  [INFO] : ExposureTime  getMaxVal fail.
+
+2021-11-22 16:49:23[12076]  [INFO] : set exposuretime config fail.
+
+2021-11-22 16:49:32[2556]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:49:35[2556]  [INFO] : ExposureTime  getMaxVal fail.
+
+2021-11-22 16:49:35[2556]  [INFO] : set exposuretime config fail.
+
+2021-11-22 16:49:40[10608]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:50:32[10608]  [INFO] : ExposureTime  getMaxVal fail.
+
+2021-11-22 16:50:32[10608]  [INFO] : set exposuretime config fail.
+
+2021-11-22 16:50:52[2300]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:52:07[2300]  [INFO] : ExposureTime  getMaxVal fail.
+
+2021-11-22 16:52:47[4832]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:53:41[10952]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:54:53[10952]  [INFO] : AcquisitionLineRate  getMaxVal fail.
+
+2021-11-22 16:54:53[10952]  [INFO] : set FrameRate config fail.
+
+2021-11-22 16:55:09[7456]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:55:13[7456]  [INFO] : AcquisitionLineRate  getMaxVal fail.
+
+2021-11-22 16:55:13[7456]  [INFO] : set FrameRate config fail.
+
+2021-11-22 16:55:25[2160]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:57:35[7224]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 16:58:35[7224]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-22 16:59:58[16724]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 17:02:18[15512]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 17:02:59[15512]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-22 17:04:08[7976]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 17:04:28[7976]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-22 17:05:56[14972]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 17:17:27[13740]  [INFO] : CHaiKangCamGrab::未发现指定序列号的设备!
+2021-11-22 17:17:53[13740]  [INFO] : StartGrabbing  fail.
+
+2021-11-22 17:18:21[13740]  [INFO] : StartGrabbing  fail.
+
+2021-11-22 17:18:31[13740]  [INFO] : CDHCameraGrab::StopGrab->enter
+2021-11-22 17:18:45[13740]  [INFO] : CDHCameraGrab::CloseCamera->leave
+2021-11-22 17:20:22[16264]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-22 17:20:52[7692]  [INFO] : CHaiKangCamGrab::MV_CC_OpenDevice Failed!
+2021-11-22 17:20:52[7692]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-22 17:21:34[9096]  [INFO] : CDHCameraGrab::OpenCamera->Error, didn't find the camera:12059154
+2021-11-22 17:23:12[9096]  [INFO] : CBalserCameraGrab::CloseCamera->enter
+2021-11-22 17:23:12[9096]  [INFO] : CHaiKangCameraGrab::CloseCamera->leave

@@ -1,0 +1,5 @@
+LIBRARY	"ZCVisionTool"
+
+EXPORTS
+    Cam1_Function
+    Cam2_Function

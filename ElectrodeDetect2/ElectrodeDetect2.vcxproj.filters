@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\Base">
+      <UniqueIdentifier>{687257e2-96a1-4016-b800-4c030bee104c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Dlg">
+      <UniqueIdentifier>{4206361a-8157-477f-8c5b-906527394c07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\OwnDrawCtrl">
+      <UniqueIdentifier>{458c12d5-563c-4f95-925f-5123d153f615}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Thread">
+      <UniqueIdentifier>{bc0272c6-e07c-4800-b553-ac00ed0915be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Base">
+      <UniqueIdentifier>{76ca3964-4ae3-4d3a-b556-db2dd7288c8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Dlg">
+      <UniqueIdentifier>{60609039-7b8f-4fe1-8d10-27fd1156edba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\OwnDrawCtrl">
+      <UniqueIdentifier>{20edc2d5-8bef-4eb9-a991-2689c1a44a4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Thread">
+      <UniqueIdentifier>{d46efcd6-d773-4e50-89d0-ad9f3d7ec157}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Dlg\SysSetDlg">
+      <UniqueIdentifier>{26a24816-0bb5-453e-bd2f-218689f5dd62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Dlg\DetSetDlg">
+      <UniqueIdentifier>{1ca51db5-5b17-4694-b404-14a849f8d216}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Dlg\DetSetDlg">
+      <UniqueIdentifier>{4a250404-6880-44a2-b466-0a34ccd38f0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Dlg\SysSetDlg">
+      <UniqueIdentifier>{18cff344-9ad0-4a9e-8b47-5d4e97b59b3f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ElectrodeDetect2Dlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ElectrodeDetect2.h">
+      <Filter>头文件\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>头文件\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>头文件\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="PictureButton.h">
+      <Filter>头文件\OwnDrawCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="Analyhander.h">
+      <Filter>头文件\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="HaiKangGrabHander.h">
+      <Filter>头文件\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="TaskThread.h">
+      <Filter>头文件\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="DalsaGrabHander.h">
+      <Filter>头文件\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgDetSet.h">
+      <Filter>头文件\Dlg\DetSetDlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgSysSet.h">
+      <Filter>头文件\Dlg\SysSetDlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgDetSet_Cycle.h">
+      <Filter>头文件\Dlg\DetSetDlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgDetSet_UpBack.h">
+      <Filter>头文件\Dlg\DetSetDlg</Filter>
+    </ClInclude>
+    <ClInclude Include="Login.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveImgHander.h">
+      <Filter>头文件\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="FileHander.h">
+      <Filter>头文件\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="CColorStatusBar.h">
+      <Filter>头文件\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="DelImgHander.h">
+      <Filter>头文件\Thread</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ElectrodeDetect2Dlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ElectrodeDetect2.cpp">
+      <Filter>源文件\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="PictureButton.cpp">
+      <Filter>源文件\OwnDrawCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="Analyhander.cpp">
+      <Filter>源文件\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="HaiKangGrabHander.cpp">
+      <Filter>源文件\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="TaskThread.cpp">
+      <Filter>源文件\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="DalsaGrabHander.cpp">
+      <Filter>源文件\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgDetSet.cpp">
+      <Filter>源文件\Dlg\DetSetDlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgSysSet.cpp">
+      <Filter>源文件\Dlg\SysSetDlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgDetSet_Cycle.cpp">
+      <Filter>源文件\Dlg\DetSetDlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgDetSet_UpBack.cpp">
+      <Filter>源文件\Dlg\DetSetDlg</Filter>
+    </ClCompile>
+    <ClCompile Include="Login.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveImgHander.cpp">
+      <Filter>源文件\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="FileHander.cpp">
+      <Filter>源文件\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="CColorStatusBar.cpp">
+      <Filter>源文件\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="DelImgHander.cpp">
+      <Filter>源文件\Thread</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ElectrodeDetect2.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\ElectrodeDetect2.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\ElectrodeDetect2.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

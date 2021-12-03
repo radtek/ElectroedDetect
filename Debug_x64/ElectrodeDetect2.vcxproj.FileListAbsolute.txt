@@ -1,0 +1,11 @@
+E:\工作\MFC\软件\焊条检测2\ElectrodeDetect\Debug_x64\ElectrodeDetect2.exe
+E:\工作\MFC\软件\焊条检测2\ElectrodeDetect\Debug_x64\ElectrodeDetect2.pdb
+E:\工作\MFC\软件\焊条检测3\ElectrodeDetect\Debug_x64\ElectrodeDetect2.exe
+E:\工作\MFC\软件\焊条检测3\ElectrodeDetect\Debug_x64\ElectrodeDetect2.pdb
+E:\工作\MFC\软件\焊条检测new\ElectrodeDetect\Debug_x64\ElectrodeDetect2.exe
+E:\工作\MFC\软件\焊条检测new\ElectrodeDetect\Debug_x64\ElectrodeDetect2.pdb
+E:\工作\MFC\软件\展示机\ElectrodeDetect\Debug_x64\ElectrodeDetect2.exe
+E:\工作\MFC\软件\展示机\ElectrodeDetect\Debug_x64\ElectrodeDetect2.pdb
+D:\ElectrodeDetect\Debug_x64\ElectrodeDetect2.exe
+E:\工作\MFC\软件\赛历焊条检测\ElectrodeDetect\Debug_x64\ElectrodeDetect2.exe
+E:\工作\MFC\软件\赛历焊条检测\ElectrodeDetect\Debug_x64\ElectrodeDetect2.pdb
